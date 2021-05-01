@@ -8,6 +8,7 @@ Made sure things were in order.
 Checked the colors, displays, fonts, and margins. 
 
 #Key Changes
+
 Changed the search engine optimization id
 
 Changed the title to HoriSEOn
